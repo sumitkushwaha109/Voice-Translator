@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+media/
+*.wav
+*_converted.wav
+*.mp3
+*.webm
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sqlite3
+db.sqlite3
+favicon.ico
