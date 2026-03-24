@@ -1,4 +1,4 @@
-# 🎙 Voice Translator (Full Stack Project)
+# Voice Translator (Full Stack Project)
 
 A real-time Voice Translator web application that converts speech → text → translated text → audio output.
 
@@ -27,8 +27,7 @@ Built using:
 #  Setup Instructions
 
 ## 2. Install Python (Important)
-
-👉 This project works best with **Python 3.11** (recommended)
+This project works best with **Python 3.11** (recommended)
 
 ### Mac (using brew):
 
